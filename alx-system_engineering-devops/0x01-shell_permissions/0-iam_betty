@@ -1,0 +1,9 @@
+#!/bin/bash
+su betty
+
+Esc,:wq!
+root@5d1bf2e03c7b:~/alx-system_engineering-devops/0x01-shell_permissions# wc -1 0-iam_betty
+2 0-iam_betty
+root@5d1bf2e03c7b:~/alx-system_engineering-devops/0x01-shell_permissions# chmod u+x 0-iam_betty
+root@5d1bf2e03c7b:~/alx-system_engineering-devops/0x01-shell_permissions# ls
+root@5d1bf2e03c7b:~/alx-system_engineering-devops/0x01-shell_permissions# cd
