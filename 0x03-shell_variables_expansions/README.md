@@ -1,3 +1,2 @@
-shell variables
+Shell Variables
 
-My readme file for the Shell Redirections task
